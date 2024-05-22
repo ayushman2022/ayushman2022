@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushman Choubey</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushman2022&label=Profile%20views&color=0e75b6&style=flat" alt="ayushman2022" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman2022" alt="ayushman2022" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/im_ayushman" target="blank"><img src="https://img.shields.io/twitter/follow/im_ayushman?logo=twitter&style=for-the-badge" alt="im_ayushman" /></a> </p>
 
 - 🔭 I’m currently working on [Swigato(Food ordering website)](github.com/ayushman2022/Swigato-FoodOrderingwebsite-)
